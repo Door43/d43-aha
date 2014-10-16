@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aha:home|Door43 (aha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aha|d43-aha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aha/archive/master.zip|d43-aha.zip]]
+
+**Recent Changes**
+{{changes>ns = aha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aha|Ethnologue data]]
+
